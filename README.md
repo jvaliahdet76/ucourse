@@ -1,4 +1,4 @@
 # ucourse
 course repository
 
-editet README.md file. This file was modified locally
+This file was modfied manually during conflicts resolution
